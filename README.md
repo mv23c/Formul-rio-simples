@@ -1,2 +1,2 @@
-# Formul-rio-simples
+# Formulrio-simples
 Formulário simples só com HTML e CSS.
